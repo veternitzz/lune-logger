@@ -1,0 +1,12 @@
+name = "veternitzz/logger"
+version = "0.1.0"
+description = "A logger module for Lune."
+authors = ["Anthony LaPeter (veternitzz)"]
+repository = "https://github.com/veternitzz/logger"
+license = "MIT"
+
+[target]
+environment = "lune"
+
+[indices]
+default = "https://github.com/daimond113/pesde-index"
